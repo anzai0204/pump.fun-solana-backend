@@ -4,6 +4,4 @@ This is repository for smart contract of Pump.fun. As a smart contact part of Pu
 ### If you face difficulty or issues when you use it, feel free to reach out
 
 ### My contacts
-https://wa.me/13137423660
-https://t.me/HarmoniTechDev
-https://discord.com/users/382102787649175553
+https://t.me/chaintoshi
